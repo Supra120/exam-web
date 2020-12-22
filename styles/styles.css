@@ -1,0 +1,322 @@
+i:focus
+{
+    outline: none;
+    outline-width: 0;
+}
+a:focus{
+    outline: none;
+    outline-width: 0;
+}
+.heading-line
+{
+    display: block;
+    height: 3px;
+    background-color: black;
+    width: 85%;
+}
+.delivery-service
+{
+    font-size: 20px;
+}
+
+.table
+{
+    border: 1px solid black;
+}
+.table td
+{
+    border-top: 1px solid black;
+}
+.table thead th
+{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.my-navbar
+{
+    background-color: #4de79a;
+}
+.my-navbar a
+{
+    color: #654321;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#btn-search-table
+{
+    color: #4de79a;
+    background-color: #654321;
+    border: #4de79a;
+}
+#btn-search-table:hover
+{
+    color: #654321;
+    background-color: #4de79a;
+    border: 1px solid #654321;
+}
+#btn-search-table
+{
+    color: #4de79a;
+    background-color: #654321;
+}
+
+.my-search-form
+{
+    background-color:  #4de79a;  
+}
+.my-search-form label
+{
+    color: #654321;
+    font-weight: bold;
+}
+.table th
+{
+    background-color: #654321;
+    color: #4de79a;
+}
+.table td
+{
+    background-color: #4de79a;
+    color: #654321;
+}
+.table td button
+{
+    background-color: #654321;
+    color: #4de79a;
+}
+
+.menu-class
+{
+    background-color: #4de79a;
+}
+
+.menu-class h3
+{
+    color: #654321;
+}
+.menu-class p
+{
+    color: #654321;
+}
+.menu-class h4
+{
+    color: #654321;
+}
+.choose-company h2
+{
+    color: #654321;
+}
+.advanced-options h2
+{
+    color: #654321;
+}
+
+.modal-header
+{
+    background-color: #654321;
+    color: #4de79a;
+}
+.modal-footer
+{
+    background-color: #654321;
+}
+#btn_reject_order
+{
+    background-color: #f7022a;
+    border-color: #4de79a;
+    color: #4de79a;
+}
+#btn_reject_order:hover
+{
+    background-color: #4de79a;
+    border-color:#f7022a;
+    color: #f7022a;
+}
+#btn_accept_order
+{
+    background-color: #654321;
+    color: #4de79a;
+    border-color: #4de79a;
+}
+#btn_accept_order:hover
+{
+    background-color: #4de79a;
+    color: #654321;
+    border-color: #4de79a;
+}
+#btn_accept_order:focus
+{
+    outline: 0;
+    outline-color: #4de79a;
+}
+.modal-body
+{
+    color: #654321;
+}
+.modal-body h3
+{
+    color: #654321;
+}
+
+.modal-body .form-control
+{
+    background-color: #4de79a;
+    color: #654321;
+}
+
+.menu-pos-desc
+{
+    background-color: #4de79a;
+    color: #654321;
+}
+.carousel-item h3
+{
+    color:  #4de79a;   
+}
+.carousel-item p
+{
+    color:  #4de79a;   
+}
+.delivery-service h2
+{
+    color: #654321;
+}
+#btn_prev
+{
+    background-color: #654321;
+    color: #4de79a;
+}
+#btn_prev:hover
+{
+    background-color: #4de79a;
+    color: #4de79a;
+}
+#btn_next
+{
+    background-color: #654321;
+    color: #4de79a;
+}
+#btn_next:hover
+{
+    background-color: #4de79a;
+    color: #4de79a;
+}
+#btn_one
+{
+    background-color:#4de79a;
+    color:#4de79a;
+}
+#btn_one:hover
+{
+    background-color: #654321;
+    color: #4de79a;
+}
+#btn_two
+{
+    background-color:#4de79a;
+    color:#654321;
+}
+#btn_two:hover
+{
+    background-color: #654321;
+    color: #4de79a;
+}
+#btn_three
+{
+    background-color:#4de79a;
+    color:#654321;
+}
+#btn_three:hover
+{
+    background-color: #654321;
+    color: #4de79a;
+}
+.btn-plus
+{
+    font-size: 24px;
+    color: #654321;
+}
+.btn-plus:hover
+{
+    font-size: 24px;
+    color: #30d5c8;
+}
+.btn-minus
+{
+    font-size: 24px;
+    color: #654321;
+}
+.btn-minus:hover
+{
+    font-size: 24px;
+    color: #f7022a;
+}
+#contacts
+{
+    background-color: #654321;
+}
+#contacts i
+{
+    color: #4de79a;
+    font-size: 16px;
+}
+#contacts p
+{
+    color: #4de79a;
+    font-size: 16px;
+}
+#contacts a
+{
+    color: #4de79a;
+    font-size: 16px;
+}
+.container-carousel
+{
+    background-color: #4de79a;
+}
+.advanced-options
+{
+    color: #654321;
+    font-size: 18px;
+    font-weight: bold;
+}
+#checkbox-stud:active
+{
+    background-color: #654321;
+    color: #4de79a;
+}
+#btn_create_order
+{
+    background-color: #654321;
+    color: #4de79a;
+    border-color: #4de79a;
+}
+#btn_create_order:hover
+{
+    background-color: #4de79a;
+    color: #654321;
+    border-color: #654321;
+}
+.create-order-section
+{
+    background-color: #654321;
+    border-color: 1px solid #654321;
+}
+.create-order-section h4
+{
+    color: #4de79a;
+}
+.carousel-indicators li
+{
+    background-color: #4de79a;
+}
+.carousel-indicators .active
+{
+    background-color: #4de79a;
+}
+#info-about-us
+{
+    color: #654321;
+    font-size: 24px;
+}
